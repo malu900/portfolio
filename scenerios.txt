@@ -1,0 +1,35 @@
+Aquaponics PH/Oxygen/Temperature Scenario
+
+Technician/Administrator: Tom
+Worker: Max
+
+The aquaponics installations for the rural communities of South Africa have been installed in the villages for one month. These have an ​​Automation system designed using Arduino and Raspberry Pi microcontrollers with proportional control method. The system sends notifications through the project web page when the sensors detect disturbances in the installations. Tom is one of the technicians in the project and he is in charge of directing the tasks that the workers have to do. Max is one of those workers and he has to follow the commands that Max tells him.
+
+Tom and Max receive a notification through the aquaponics web page: the water temperature sensor of one of the fish tanks has detected an unusual temperature level.
+
+Once Tom and Max have opened the notification, Tom checks the current temperature data through the app to detect the problem. He sees that the water is colder than it should be. The water should be between 71-89 °F (22-32°C), and it actually has a temperature of 12°C.
+Tom checks the predicted data in the webpage and sees that a low level of temperature in water from the fish tanks can be harmful for the fish's health.
+
+Tom sends a command to Max through the web site to solve the temperature problem.
+
+Max goes to the aquaponics installation and solves the problem (he fixes a flaw found in the greenhouse system which is letting the cold in).
+
+The system sends a notification to Tom and Max saying that the temperature level of the water in the fish tanks is adequate.
+ 
+Even though Max has fixed the water temperature problem, due to the temperature decreasing, the system has sent again a new notification which informs about an unusual PH level: the PH level of the water has increased.
+
+Tom and Max receive the new notification of the aquaponics web.
+
+Tom sees in the live data page of the web site that the actual level of PH in the water is 9.3 when it should be between 5.5 and 5.6 to be appropriate and beneficial for the harvest.
+That level can cause plants not to be able to absorb nutrients.
+
+Tom sends a command to Max through the web site to solve the PH problem.
+
+Max returns to the aquaponics installation and solves the problem (He adds the quantity of phosphoric acid that was missing to the water to reduce the PH level of it) .
+
+The system sends a notification to Tom and Max saying that the PH level of the water is adequate.
+https://www.researchgate.net/publication/335366710_Controlling_pH_and_temperature_aquaponics_use_proportional_control_with_Arduino_and_Raspberry
+
+https://www.btlliners.com/controlling-water-temperature-in-an-aquaponics-system
+
+https://www.theaquaponicsource.com/faq-items/lower-ph-aquaponics-system/
